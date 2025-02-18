@@ -83,6 +83,7 @@ Frontend
 <code><img height="30" src="https://skillicons.dev/icons?i=html"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=css"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=javascript"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=react"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=tailwind"/></code>
 
