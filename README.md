@@ -65,14 +65,13 @@ public class Marcelo
 </table>
 
 <br>
-
-
-
 <br>
-## 🛠 Linguagens e ferramentas
-<!--## 🛠 &nbsp;Tech Stack -->
+
+## 🛠 &nbsp; Linguagens e ferramentas
+
 
 ## &nbsp;Backend
+
 <div align="left">
   
   <p>
