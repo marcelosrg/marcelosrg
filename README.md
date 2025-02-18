@@ -13,7 +13,24 @@
 
  -->
 
+```c#
+using System;
 
+public class Marcelo
+{
+    private string Name  {get; set;};
+    private string[] skills  {get; set;};
+    private string about  {get; set;};
+
+    public Marcelo()
+    {
+        this.Name = "Marcelo Henrique";
+        this.skills = new string[] { "C#", ".NET", "JavaScript", "Html", "Css", "Angular" };
+        this.about = "FullStack Developer";
+    }
+}
+
+```
 
 <br>
  <table>
