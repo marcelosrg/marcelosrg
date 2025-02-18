@@ -69,7 +69,7 @@ public class Marcelo
 
 
 <br>
-## Linguagens e ferramentas
+## 🛠 Linguagens e ferramentas
 <!--## 🛠 &nbsp;Tech Stack -->
 
 ## &nbsp;Backend
