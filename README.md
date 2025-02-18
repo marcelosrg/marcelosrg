@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Marcelo! 👋
-Meu nome é **Marcelo** e sou **Desenvolvedora Full Stack**, focado mais na parte do Back-End e estou cursando **Engenharia de Software**. 
+Meu nome é **Marcelo** e sou **Desenvolvedor Full Stack**, focado mais na parte do Back-End e estou cursando **Engenharia de Software**. 
 
 <!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
