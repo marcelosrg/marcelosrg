@@ -1,9 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
 
 Meu nome é **Marcelo** e sou **Desenvolvedora Full Stack**, focado mais na parte do Back-End e estou cursando **Engenharia de Software**. 
 
 <!-- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845EC2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Marcelo+;I'm+19+years+old;I'm+from+Brazil;I+Graduated+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelosrg&bg_color=0D1117&color=ffff&line=ffff&point=845EC2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
