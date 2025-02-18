@@ -18,13 +18,13 @@ Meu nome é **Marcelo** e sou **Desenvolvedor Full Stack**, focado mais na parte
 ```c#
 using System;
 
-public class Marcelo
+public class Profile
 {
     public string Name { get; set; }
     public string[] Skills { get; set; }
     public string About { get; set; }
 
-    public Marcelo()
+    public Profile()
     {
         this.Name = "Marcelo Henrique";
         this.Skills = new string[] { "C#", ".NET", "JavaScript", "HTML", "CSS", "Angular" };
