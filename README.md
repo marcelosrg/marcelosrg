@@ -55,7 +55,7 @@ public class Profile
     </td>
     <td>
       <br />
-      <<img
+      <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false"
         alt="Github stats"
