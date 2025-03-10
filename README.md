@@ -94,7 +94,6 @@ Database
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/></code>
 <code><img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/></code>
 
 <br>
 
