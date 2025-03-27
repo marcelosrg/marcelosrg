@@ -27,7 +27,7 @@ public class Profile
     public Profile()
     {
         this.Name = "Marcelo Henrique";
-        this.Skills = new string[] { "C#", ".NET", "JavaScript", "HTML", "CSS", "Angular" };
+        this.Skills = new string[] { "C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR" };
         this.About = "FullStack Developer";
     }
 }
