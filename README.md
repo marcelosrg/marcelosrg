@@ -10,7 +10,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=845EC2&height=120&section=footer"/>
   
 </div>-->
-
+<h1>Olá, me chamo Marcelo!</h1>
+<br><br>
 <p>Sou estudante de Engenharia de Software e atualmente trabalho como Engenheiro de Software Backend em uma universidade. Tenho grande interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas. Gosto de entender profundamente como as tecnologias funcionam e aplicar esse conhecimento na prática através de projetos e soluções reais. Sou curioso por natureza e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e construir software de forma eficiente e bem estruturada.
 </p>
 <br><br>
