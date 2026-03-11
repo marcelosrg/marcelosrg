@@ -8,8 +8,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=845EC2&height=120&section=footer"/>
 
 <br><br>
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false" alt="Github stats"/>
+<div style="display: flex; gap: 10px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosrg&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false" alt="Github stats"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelosrg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br><br>
