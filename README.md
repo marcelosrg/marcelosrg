@@ -12,18 +12,14 @@
 </div>-->
 # Marcelo Henrique
 
-<p>👩🏻‍💻 Sou estudante de Engenharia de Software e atualmente trabalho como Engenheiro de Software Backend em uma universidade. Tenho grande interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas. Gosto de entender profundamente como as tecnologias funcionam e aplicar esse conhecimento na prática através de projetos e soluções reais. Sou curioso por natureza e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e construir software de forma eficiente e bem estruturada.
-</p>
-<br><br>
-<div  align="center">
-  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosrg&layout=compact&langs_count=7&theme=dracula"/>-->
-
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false" alt="Github stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelosrg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+👩🏻‍💻 Sou estudante de Engenharia de Software e atualmente trabalho como Engenheiro de Software Backend em uma universidade. Tenho grande interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas. Gosto de entender profundamente como as tecnologias funcionam e aplicar esse conhecimento na prática através de projetos e soluções reais. Sou curioso por natureza e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e construir software de forma eficiente e bem estruturada.
 <br><br>
 
-<h2 align="center">🛠 Linguagens e Ferramentas</h2>
+---
+
+<br><br>
+
+## 🛠 Linguagens e Ferramentas</h2>
 </br>
 </br>
 <div align="center">
@@ -47,6 +43,17 @@
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   
+</div>
+
+
+
+<br><br>
+
+<div  align="center">
+  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosrg&layout=compact&langs_count=7&theme=dracula"/>-->
+
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false" alt="Github stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelosrg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
