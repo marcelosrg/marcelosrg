@@ -12,12 +12,10 @@
 </div>-->
 # Marcelo Henrique
 
-Sou estudante de Engenharia de Software e atualmente trabalho como Engenheiro de Software Backend em uma universidade. Tenho grande interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas. Gosto de entender profundamente como as tecnologias funcionam e aplicar esse conhecimento na prática através de projetos e soluções reais. Sou curioso por natureza e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e construir software de forma eficiente e bem estruturada.
+Sou estudante de Engenharia de Software e atualmente trabalho como Engenheiro de Software Backend em uma universidade. Tenho interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas, com foco em escrever código limpo, reutilizável e bem estruturado. Sou curioso por natureza e gosto de entender profundamente como as tecnologias funcionam para aplicá-las na prática em soluções reais. Busco evoluir constantemente como desenvolvedor, estudando novas tecnologias e aprimorando minhas habilidades em algoritmos e estruturas de dados.
 <br><br>
 
 ---
-
-
 
 ## 🛠 Linguagens e Ferramentas
 
